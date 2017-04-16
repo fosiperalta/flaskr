@@ -1,6 +1,9 @@
 MANIFEST.in
+setup.cfg
+setup.py
 flaskr/__init__.py
 flaskr/flaskr.py
+flaskr/flaskr_tests.py
 flaskr/schema.sql
 flaskr.egg-info/PKG-INFO
 flaskr.egg-info/SOURCES.txt
